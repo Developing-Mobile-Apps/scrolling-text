@@ -1,4 +1,4 @@
-# Scrolling Text2
+# Scrolling Text
 
 
 ## App Screenshots
